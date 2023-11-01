@@ -16,7 +16,7 @@ function PartnershipDevtPage() {
     <div>
       <PageBanner
         name=" About Our Partnership and Development Program"
-        footer=" By Semon Mama General Mangaer at shoa homes"
+        footer=" By Semon Mamo General Manger at Shoa Homes"
       />
 
       <section>
